@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name angularfireSlackApp
+ * @name weilaSlackApp
  * @description
- * # angularfireSlackApp
+ * # weilaSlackApp
  *
  * Main module of the application.
  */
 angular
-  .module('angularfireSlackApp', [
+  .module('weilaSlackApp', [
     'firebase',
     'angular-md5',
     'ui.router'
